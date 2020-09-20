@@ -1,0 +1,51 @@
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ mkdir school
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ cd school
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school (master)
+$ mkdir tools
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school (master)
+$ mkdir CS1
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school (master)
+$ mkdir CS2
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school (master)
+$ ls
+CS1/  CS2/  tools/
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school (master)
+$ cd tools
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/tools (master)
+$ touch cmnd-line.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/tools (master)
+$ ls
+cmnd-line.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/tools (master)
+$ cd ../CS1
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/CS1 (master)
+$ touch lecture1.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/CS1 (master)
+$ ls
+lecture1.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/CS1 (master)
+$ cd ../CS2
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/CS2 (master)
+$ touch lecture2.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/CS2 (master)
+$ touch java.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/school/CS2 (master)
+$ ls
+java.txt  lecture2.txt
